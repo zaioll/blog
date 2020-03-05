@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+<channel>
+	<language>pt-BR</language>
+    <title>Crônicas de um programador fullstack</title>
+    <link>http://www.zaioll.com</link>
+    <description>A saga da construção deste blog, a partir do zero, na unha. Pode ser útil para iniciantes ou escovadores de bits.</description>
+	<sy:updatePeriod>weekly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <atom:link href="https://www.zaioll.com/" rel="self" type="application/rss+xml" />
+    <dc:creator><![CDATA[zaioll]]></dc:creator>
+
+    <item>
+        <title>Primeiro dia: Colocando o site no ar e organizando as idéias.</title>
+        <link>http://www.zaioll.com</link>
+        <description><![CDATA[Organizando as idéias.]]></description>
+        <content:encoded><![CDATA[
+            <p>
+                Organizando as idéias a respeito do que e como será feito. Quando vemos um site/blog qualquer, as vezes temos a impressão de
+                que não deve ser tão difícil fazer algo parecido e só quando colocamos a mão na massa é que temos uma noção da realidade.
+            </p>
+            <p>
+                Quando abrir a página (se abrir. rs), verá que não tem nada lá, além de um ícone de feed e uma âncora apontando para o nada.
+                Se você é iniciante (o público alvo deste trabalho), abra a código fonte da página e verá o que foi feito neste primeiro dia.
+                Talvez até seja por causa desse conteúdo invisível que você tenha chegado aqui.
+            </p>
+            <p>
+                Vou tentar fazer alguma coisa pelo menos uma vez por semana. Não sei ainda se isso será puxado ou não. Vamos ver.
+            </p>
+        ]]></content:encoded>
+        <pubDate>Quinta, 05 Mar 2020 20:20:20</pubDate>
+    </item>
+</channel>
+</rss>
